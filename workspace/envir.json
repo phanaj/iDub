@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dev-firmament-187721",
+  "private_key_id": "ea2ba89173ebe7b0f602c10d4e2ce31f68251d01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC0h9xVvwmFLwZr\niJfW5WVKyEh4Ml46Fua7GmoGxaLcAwBL0uQa0j/kwDsER8dxFPA5emqvg2tyN3ub\n4K56tEcE4+iHMi0at7s4LlXyNtUlG6m1CKXLw/+uM6Cux/dKs7kAezvnzTVp+HwD\nT8tOpuBbSA2Bu9Yu26SJ4dF8ktDV3YrbkOBrPa1+srufjkBYqbuScAjp4sba/SLj\nF0J4OfiiFbKd6V/nd1Ztzlxv8KenYj3lqqEvE5aplLBkU8AE6r+rTjIhVKRrzNhk\nm/ie42xtQmFh9IB7gJ4crkVZy4U9cKHO/1RIt1wHbG6F/XSYeTieuQtruvqFqV+4\nzjMsdapbAgMBAAECggEAEUaVC7GR2ChlXWH/YcWm+U6MPNBZGwb5AnunHMnJ6XLy\nEs92G6j2C05n92NlDwm5aU6xKeWSISZ1EjggikZ5K1sh89oV3eIqLNimSdz8baYl\nidjvgL3bWFDBdihVnlTvhb/FPkvxahgoyepXYsnuW13cSQdwGiDTsIwnD1w/Vs/I\nfSNuOaUQeV77+tHlGEC7PjPlc9M7U/TBbgNkjizW7RGDULniW2G9bms1pkshblWR\nCJRNxbwD4DqJx7L8EFrfJEnPeKbA2zgbxRfcqCqe5hgxzZsQOm5ZCnKppSvOBKc6\nCQRWoAlUArW/ML4qRziTAZDYEwJf2kPOsU1x5LTMYQKBgQD3leZGvXt/7+/Pkcj2\neaz4hlmfLNQeUEpdcUxnigeYdLLIyrvWo3C9qELAhzHHSMpwYfjJtbALGjyvZbZD\nhSm0OChiyvx6kxJdjlEf+vlgOgJ0WaVb42Ddf7Fb4lx6Z1cCATWJMG79bqdhMZCr\nao5ECb1qJLsa3GTrNfEO8T+0IQKBgQC6qo4nlb6poaRlJy+bTNHMqbTovVXh3X9X\n36+a9qFcKQqlUeTk9MAMOS50uOTErMM4RafTmEHS3J5lmuxHHRNL20fIF+bT3Hw6\n/K2EcuDr/BlA54lWiYcmSGGMgbjrBOkAG5M7b3moQQ7wiDCoYq7hTzU9uXB1sBkg\nesakVl5O+wKBgQC9Lkgn049zocYvaCkT1MOLnzUKALoQc69vGSyVjQ3iu4EFFoxT\nJM33zYM8E9HAgelV2Da/AlqDEUg/icusaisEr0iEvLARhSGqZR2t/xrgIVNQzlMh\nFGwms/S0zhF14lLEkGH08xJMCmpRRQtTP/d3G64lVe22R6PBapVIoqTXoQKBgQCr\ns5S9Dr3plPj93pSo2nmlM3loGDi2YSLwtp32AeSdPFdBiFnuzL8Wv0ZfMW+lBXEx\nAsmEFep+RlchCOdL5o/IV/ToNiwqNwbCz4fgbDc+eo7UJ+YphqmdajjooK5y5/pX\nEgZVRo32WZmfYPa4/MT2FQDZPQkYCBqkyKqNobBwHwKBgQC4nNc20ufFS2gjNVjC\nuiA2MIy8j2oCgBNnjNFiME2SumJOIFN3NmIIQLXJ26kGWhhVcMlVY2aA37M5iet5\n4uV91sKRVu+HI+6ghTNnPz2Xk3FS0eOV71HnBiMm2W99ee48ZaPYqeUypwAj2eiI\ngt9gTVCZJ2a5wMuUd924IK1dOw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yhackcentral@dev-firmament-187721.iam.gserviceaccount.com",
+  "client_id": "107981364912156323419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yhackcentral%40dev-firmament-187721.iam.gserviceaccount.com"
+}
