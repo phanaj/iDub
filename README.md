@@ -1,7 +1,7 @@
-# WubbaLubbaDubz
-Wubba Lubba Dubz is a service that allows users to generate auto-edited dub videos. A dictionary of words that a person can say is made for each individual based off of training videos.
-To query Wubba Lubba Dubz, the user simply sends a message to the Wubba Lubba Dubz facebook page in accordance with the format prescribed by the WubbaLubbaDubz facebook messenger bot.
-In a few minutes, an auto-generated video, per the user's instructions, will be posted on the Wubba Lubba Dubz community page.
+# iDub
+iDub is a service that allows users to generate auto-edited dub videos. A dictionary of words that a person can say is made for each individual based off of training videos.
+To query iDub, the user simply sends a message to the Wubba Lubba Dubz facebook page in accordance with the format prescribed by the iDub facebook messenger bot.
+In a few minutes, an auto-generated video, per the user's instructions, will be posted on the iDub community page.
 
 ## Installation
 Run `pip install -r requirements.txt`. 
